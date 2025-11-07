@@ -1,0 +1,24 @@
+{
+  "Config": [
+    {
+      "token": "NjM20TA0MTI1MDY1NTkyODM3.Gvzmst.1CcuBDgZ3-Tj0jSheTkGQQv-vUBzX1FH5K0iXY",
+      "channel_id": "1436130410290479185",
+      "messages": [
+        {
+          "content": "> # **SHOP AT [ BAPAK ]**
+> # —————————————
+> - IRON BARS
+> - EGGS BENEDICT
+> - LUCKY CLOVER
+> - MANNEQUIN
+> - DELUXE GROW SPRAY
+> - S STATION
+> # —————————————
+> # **GO > BAPAK <**",
+          "min_interval": 5,
+          "max_interval": 10
+        },
+      ]
+    }
+  ]
+}
